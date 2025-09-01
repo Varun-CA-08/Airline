@@ -1,0 +1,18 @@
+body, html, #root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.container {
+  min-height: 100vh;
+  padding: 40px;
+  box-sizing: border-box;
+  background-color: #f9f9f9;
+  font-family: Arial, sans-serif;
+}
+
+.section {
+  margin-bottom: 40px;
+}
